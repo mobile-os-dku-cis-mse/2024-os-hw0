@@ -1,1 +1,3 @@
 This is a simple test file.
+
+Added a new line of text.
